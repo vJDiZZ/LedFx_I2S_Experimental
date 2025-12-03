@@ -5,6 +5,7 @@ Effects
    :maxdepth: 4
 
    common_settings
+   lightning_effects_explained
 
 .. note::
    Only a few Effects presently have documentation at this level, any assistance in improving the documentation is appreciated.
